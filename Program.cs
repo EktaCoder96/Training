@@ -8,5 +8,10 @@ namespace TrainigInterface
         {
             Console.WriteLine("Hello World!");
         }
+
+        public string Deploy()
+        {
+           return "deploy";
+        }
     }
 }
